@@ -1,6 +1,6 @@
 # 声纹技术：从核心算法到工程实践
 
-![QR_code](书店二维码-横版.png)
+![QR_code](media/书店二维码-横版.png)
 
 ## 购买方式
 
@@ -8,7 +8,7 @@
 
 ## 样章下载
 
-点击此处下载本书试读样章：【[下载链接](https://github.com/wq2012/VoiceIdentityBook/raw/master/%E5%A3%B0%E7%BA%B9%E6%8A%80%E6%9C%AF-%E6%A0%B7%E7%AB%A0.pdf)】
+点击此处下载本书试读样章：【[下载链接](https://github.com/wq2012/VoiceIdentityBook/raw/master/media/声纹技术-样章.pdf)】
 
 ## 内容简介
 
