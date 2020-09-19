@@ -4,7 +4,7 @@
 
 ## 购买方式
 
-* 京东：https://item.jd.com/12970526.html
+* 京东：[https://item.jd.com/12970526.html](https://item.jd.com/12970526.html)
 
 ## 样章下载
 
