@@ -4,9 +4,9 @@
 
 ## 购买方式
 
-* 京东：https://item.jd.com/12970526.html
-* 天猫：https://detail.tmall.com/item.htm?id=628032618898
-* 当当：http://product.dangdang.com/29130997.html
+* 京东：[https://item.jd.com/12970526.html](https://item.jd.com/12970526.html)
+* 天猫：[https://detail.tmall.com/item.htm?id=628032618898](https://detail.tmall.com/item.htm?id=628032618898)
+* 当当：[http://product.dangdang.com/29130997.html](http://product.dangdang.com/29130997.html)
 
 ## 样章下载
 
