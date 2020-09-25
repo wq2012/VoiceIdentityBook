@@ -22,7 +22,8 @@ ISBN：9787121395291
 
 ## 媒体报道
 
-* [【博文视点】声纹技术：让智能语音助手真正“认得”自己](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)
+* [博文视点 - 声纹技术：让智能语音助手真正“认得”自己](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)
+* [语音杂谈 -【好书推荐】《声纹技术》抽奖送书](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)
 
 ## 大咖推荐
 
