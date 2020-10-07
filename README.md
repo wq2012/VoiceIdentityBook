@@ -134,6 +134,10 @@ ISBN：9787121395291
 
 编程题。略。
 
+C++实现可以参考：https://www.tutorialspoint.com/cplusplus-program-to-compute-discrete-fourier-transform-using-naive-approach
+
+快速傅里叶变换可以参考：https://rosettacode.org/wiki/Fast_Fourier_transform
+
 #### 练习 2.8 感知线性预测与梅尔倒谱系数在设计与实现上有哪些相同点与不同点？
 
 见表2.3。
@@ -171,6 +175,8 @@ ISBN：9787121395291
 #### 练习 3.5 尝试编写程序实现高斯混合模型及其参数估计方法。
 
 编程题。略。
+
+可以参考scikit-learn的官方实现：https://github.com/scikit-learn/scikit-learn/blob/0fb307bf3/sklearn/mixture/_gaussian_mixture.py
 
 #### 练习 3.6 如何理解非线性支持向量机所采用的核技巧？
 
@@ -267,7 +273,7 @@ ISBN：9787121395291
 
 #### 练习 4.8 编写一段程序，将两个32位浮点实数矩阵的乘法，用8位无符号整数的乘法来实现，并比较量化前后矩阵乘法结果的精度差异。
 
-编程题。略。
+编程题。略。见第141-143页。
 
 #### 练习 4.9 什么是负载均衡？负载均衡有哪些简单的实现方法？
 
@@ -309,6 +315,13 @@ ISBN：9787121395291
 #### 练习 5.5 利用离线聚类的通用接口，编程实现聚合式分层聚类及K-均值聚类方法。
 
 编程题。略。
+
+聚合式分层聚类可以参考:
+* scikit-learn的官方实现：https://github.com/scikit-learn/scikit-learn/blob/0fb307bf3/sklearn/cluster/_agglomerative.py
+
+K-均值聚类可以参考:
+* scikit-learn的官方实现：https://github.com/scikit-learn/scikit-learn/blob/0fb307bf3/sklearn/cluster/_kmeans.py
+* 多种语言的实现：https://rosettacode.org/wiki/K-means%2B%2B_clustering
 
 #### 练习 5.6 参考5.3.4节介绍的方法，编程实现基于K-均值聚类的在线聚类方法。
 
@@ -352,7 +365,7 @@ ISBN：9787121395291
 
 #### 练习 5.14 通过Python科学计算库SciPy中的分配问题优化算法，实现一个简单的用于计算分割聚类错误率的函数。
 
-编程题。略。
+参考开源实现：https://github.com/wq2012/SimpleDER
 
 #### 练习 5.15 通过练习3.15中训练的声纹识别神经网络及练习5.5中实现的K-均值聚类，实现一个简单的非监督式声纹分割聚类系统，并用练习5.14中实现的方法评价其分割聚类错误率。
 
@@ -409,6 +422,8 @@ ISBN：9787121395291
 #### 练习 7.2 利用LibROSA等工具库从音频中提取时频谱特征，然后基于该时频谱特征编程实现三种时频谱增强的方法，并对增强后的时频谱进行可视化。
 
 编程题。略。
+
+时频谱增强部分可以参考Lingvo的开源实现：https://tensorflow.github.io/lingvo/_modules/lingvo/core/spectrum_augmenter.html
 
 #### 练习 7.3 针对声纹识别系统的欺诈攻击分为哪几类？
 
