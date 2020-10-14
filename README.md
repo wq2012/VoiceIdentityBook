@@ -24,6 +24,7 @@ ISBN：9787121395291
 
 * [博文视点 - 声纹技术：让智能语音助手真正“认得”自己](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)
 * [语音杂谈 -【好书推荐】《声纹技术》抽奖送书](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)
+* [机器之心 - 从核心算法到工程实践，谷歌声纹识别负责人带你学习声纹技术（附赠书）](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)
 
 ## 大咖推荐
 
