@@ -28,6 +28,10 @@ ISBN：9787121395291
 * [博文视点 - 读书节公开课丨王泉：入门声纹技术之音频基础与声纹识别](https://mp.weixin.qq.com/s/BoFXORh1mUgAPaC4Q80bQA)
 * [机器之心 - 入门声纹技术（二）：声纹分割聚类与其他应用（附赠书）](https://mp.weixin.qq.com/s/5e-Pqu1VUDsU7fTtiD87rw)
 
+## 教学视频
+
+* [第一讲：音频基础与声纹识别](https://www.bilibili.com/video/BV1754y1r7Up)
+
 ## 大咖推荐
 
 > 随着智能语音助手的普及，声纹技术将成为人工智能领域的下一个增长点。本书系统地介绍了声纹领域的经典方法及学术前沿的研究成果。它从最基础的人耳听觉感知和音频信号处理讲起，除了介绍学术方面的内容，还专门介绍了声纹技术的工程部署，值得每一位语音领域的研究人员细读。
@@ -53,10 +57,6 @@ ISBN：9787121395291
 >本书介绍的声纹技术前沿进展，包括声纹克隆和人声分离等令人印象深刻的应用，让我不禁对其未来展开无限遐想。相信不久之后，能与人们自然地对话，并通过声音来辨别我们每一个人的人工智能将成为现实。更令我期待的是，在人类步入宇宙时代并能够与地外文明进行交流的未来，声纹技术又会在其中发挥怎样的作用。
 >
 > **——科幻作家，雨果奖得主  郝景芳**
-
-## 教学视频
-
-* [第一讲：音频基础与声纹识别](https://www.bilibili.com/video/BV1754y1r7Up)
 
 ## 思考与练习参考答案
 
@@ -139,7 +139,7 @@ ISBN：9787121395291
 
 #### 练习 2.7 编写一段程序，用以计算一段有限离散信号的离散傅里叶变换。
 
-编程题。略。
+编程题。
 
 C++实现可以参考：https://www.tutorialspoint.com/cplusplus-program-to-compute-discrete-fourier-transform-using-naive-approach
 
@@ -181,7 +181,7 @@ C++实现可以参考：https://www.tutorialspoint.com/cplusplus-program-to-comp
 
 #### 练习 3.5 尝试编写程序实现高斯混合模型及其参数估计方法。
 
-编程题。略。
+编程题。
 
 可以参考scikit-learn的官方实现：https://github.com/scikit-learn/scikit-learn/blob/0fb307bf3/sklearn/mixture/_gaussian_mixture.py
 
@@ -226,11 +226,17 @@ C++实现可以参考：https://www.tutorialspoint.com/cplusplus-program-to-comp
 
 #### 练习 3.13 下载LibriSpeech数据集，用音频处理库LibROSA从每段音频中提取MFCC特征，利用任意一种运行时推理逻辑和任意一种损失函数，在该数据集上训练一个声纹识别神经网络模型。
 
-编程题。略。
+编程题。
+
+MFCC特征的提取见本书第2.5.7节。
+
+神经网络的实现可以参考此处列出的诸多开源实现：https://github.com/wq2012/awesome-diarization#speaker-embedding
 
 #### 练习 3.14 下载参考文献[105]中所描述的Audio Set音频数据集，并提取其中的非语音音频作为我们的噪声源数据。利用pyroomacoustics工具库，随机生成大量的房间，并通过下载的噪声源，对LibriSpeech进行数据增强，构建一个增强后的数据集。
 
-编程题。略。
+编程题。
+
+可参考本书107-109页所介绍的数据增强实例。如果Audio Set数据集不方便下载，也可以使用[MUSAN](https://www.openslr.org/17/)数据集。
 
 #### 练习 3.15 在练习3.13与练习3.14的基础上，在增强后的LibriSpeech数据上训练一个新的声纹识别神经网络模型，并将新的模型与未进行数据增强时的模型进行比较。
 
@@ -280,7 +286,7 @@ C++实现可以参考：https://www.tutorialspoint.com/cplusplus-program-to-comp
 
 #### 练习 4.8 编写一段程序，将两个32位浮点实数矩阵的乘法，用8位无符号整数的乘法来实现，并比较量化前后矩阵乘法结果的精度差异。
 
-编程题。略。见第141-143页。
+编程题。见第141-143页。
 
 #### 练习 4.9 什么是负载均衡？负载均衡有哪些简单的实现方法？
 
@@ -321,7 +327,7 @@ C++实现可以参考：https://www.tutorialspoint.com/cplusplus-program-to-comp
 
 #### 练习 5.5 利用离线聚类的通用接口，编程实现聚合式分层聚类及K-均值聚类方法。
 
-编程题。略。
+编程题。
 
 聚合式分层聚类可以参考:
 * scikit-learn的官方实现：https://github.com/scikit-learn/scikit-learn/blob/0fb307bf3/sklearn/cluster/_agglomerative.py
@@ -428,7 +434,7 @@ K-均值聚类可以参考:
 
 #### 练习 7.2 利用LibROSA等工具库从音频中提取时频谱特征，然后基于该时频谱特征编程实现三种时频谱增强的方法，并对增强后的时频谱进行可视化。
 
-编程题。略。
+编程题。
 
 时频谱增强部分可以参考Lingvo的开源实现：https://tensorflow.github.io/lingvo/_modules/lingvo/core/spectrum_augmenter.html
 
