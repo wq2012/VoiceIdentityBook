@@ -27,6 +27,7 @@ ISBN：9787121395291
 * [机器之心 - 从核心算法到工程实践，谷歌声纹识别负责人带你学习声纹技术（附赠书）](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)
 * [博文视点 - 读书节公开课丨王泉：入门声纹技术之音频基础与声纹识别](https://mp.weixin.qq.com/s/BoFXORh1mUgAPaC4Q80bQA)
 * [机器之心 - 入门声纹技术（二）：声纹分割聚类与其他应用（附赠书）](https://mp.weixin.qq.com/s/5e-Pqu1VUDsU7fTtiD87rw)
+* [博文视点 - 程序员读书节重磅直播丨王泉：入门声纹技术之声纹分割聚类与其他应用](https://mp.weixin.qq.com/s/fgKbkU5hp3kO5me7iChztA)
 
 ## 教学视频
 
