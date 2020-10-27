@@ -8,10 +8,6 @@
 * 天猫：[https://detail.tmall.com/item.htm?id=628032618898](https://detail.tmall.com/item.htm?id=628032618898)
 * 当当：[http://product.dangdang.com/29130997.html](http://product.dangdang.com/29130997.html)
 
-## 样章下载
-
-点击此处下载本书试读样章：【[下载链接](https://github.com/wq2012/VoiceIdentityBook/raw/master/media/声纹技术-样章.pdf)】
-
 ## 内容简介
 
 这是第一本系统性地介绍声纹识别、声纹分割聚类及声纹在语音识别、语音合成、人声分离等领域中应用的技术书。本书内容全面且紧随时代前沿，不仅涵盖了早至20世纪60年代的经典方法，而且以大量篇幅着重介绍了深度学习时代的最新技术。本书注重理论与实践的结合，除了配备大量实践案例与习题，还有专门章节介绍声纹技术在实际工程部署方面的诸多课题。
@@ -32,6 +28,8 @@ ISBN：9787121395291
 ## 教学视频
 
 * [第一讲：音频基础与声纹识别](https://www.bilibili.com/video/BV1754y1r7Up)
+* [第二讲：声纹分割聚类与其他应用](https://www.bilibili.com/video/BV1Ky4y1876H)
+* 点击此处下载本书试读样章：【[下载链接](https://github.com/wq2012/VoiceIdentityBook/raw/master/media/声纹技术-样章.pdf)】
 
 ## 大咖推荐
 
