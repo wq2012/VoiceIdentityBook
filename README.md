@@ -24,6 +24,8 @@ ISBN：9787121395291
 * [博文视点 - 读书节公开课丨王泉：入门声纹技术之音频基础与声纹识别](https://mp.weixin.qq.com/s/BoFXORh1mUgAPaC4Q80bQA)
 * [机器之心 - 入门声纹技术（二）：声纹分割聚类与其他应用（附赠书）](https://mp.weixin.qq.com/s/5e-Pqu1VUDsU7fTtiD87rw)
 * [博文视点 - 程序员读书节重磅直播丨王泉：入门声纹技术之声纹分割聚类与其他应用](https://mp.weixin.qq.com/s/fgKbkU5hp3kO5me7iChztA)
+* [载思考 - 刷脸不够安全？配上声纹技术呢？](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)
+* [声纹圈 - 声纹技术宝典——《声纹技术：从核心算法到工程实践》](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)
 
 ## 教学视频
 
