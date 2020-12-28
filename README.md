@@ -474,7 +474,15 @@ K-均值聚类可以参考:
 
 ### 3.2.4节
 
-第63页，当以FA为横坐标，FR为纵坐标时，此时的曲线名称为**检测错误权衡**（detection error tradeoff，DET）曲线，而不再是ROC曲线。
+第62页，正确的英文应该为：
+* 错误接收率：false accept rate，FAR
+* 错误拒绝率：false reject rate，FRR
+* 正确接受率：true accept rate，TAR
+* 正确拒绝率：true reject rate，TRR
+
+第63页和64页的所有FA应改为FAR，所有FR应改为FRR。（第62页FA与FR分别被称作第一类错误与第二类错误的说法不需要改）
+
+第63页，当以FAR为横坐标，FRR为纵坐标时，此时的曲线名称为**检测错误权衡**（detection error tradeoff，DET）曲线，而不再是ROC曲线。
 
 此外，这句话有误，应该删除：“值得注意的是，因为等错率表示FA与FR相等时的数值，所以在等错率阈值这一点，真正的错误率是FA与FR之和，也就是等错率的两倍，而非等错率本身。”
 
