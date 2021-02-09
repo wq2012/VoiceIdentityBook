@@ -29,9 +29,11 @@ ISBN：9787121395291
 
 ## 教学视频
 
-* [第一讲：音频基础与声纹识别](https://www.bilibili.com/video/BV1754y1r7Up)
-* [第二讲：声纹分割聚类与其他应用](https://www.bilibili.com/video/BV1Ky4y1876H)
-* 点击此处下载本书试读样章：【[下载链接](https://github.com/wq2012/VoiceIdentityBook/raw/master/media/声纹技术-样章.pdf)】
+<a href="https://www.bilibili.com/video/BV1754y1r7Up"><img src="media/lecture_1_cover.png" width="480"/></a>
+
+<a href="https://www.bilibili.com/video/BV1Ky4y1876H"><img src="media/lecture_2_cover.png" width="480"/></a>
+
+点击此处下载本书试读样章：【[下载链接](https://github.com/wq2012/VoiceIdentityBook/raw/master/media/声纹技术-样章.pdf)】
 
 ## 大咖推荐
 
