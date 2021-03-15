@@ -35,6 +35,8 @@ ISBN：9787121395291
 
 <a href="https://www.bilibili.com/video/BV1Ky4y1876H"><img src="media/lecture_2_cover.png" width="480"/></a>
 
+机器之心专栏：【[声纹技术入门2讲](https://app6ca5octe2206.pc.xiaoe-tech.com/detail/p_5fe1c1c3e4b0231ba88e490e/6)】
+
 点击此处下载本书试读样章：【[下载链接](https://github.com/wq2012/VoiceIdentityBook/raw/master/media/声纹技术-样章.pdf)】
 
 ## 大咖推荐
