@@ -4,8 +4,12 @@
 
 ## 购买方式
 
-* 京东：[https://item.jd.com/12970526.html](https://item.jd.com/12970526.html)
-* 天猫：[https://detail.tmall.com/item.htm?id=628032618898](https://detail.tmall.com/item.htm?id=628032618898)
+* 京东：
+  * [https://item.jd.com/12970526.html](https://item.jd.com/12970526.html)
+  * [https://item.jd.com/10021950029544.html](https://item.jd.com/10021950029544.html)
+* 天猫：
+  * [https://detail.tmall.com/item.htm?id=628032618898](https://detail.tmall.com/item.htm?id=628032618898)
+  * [https://detail.tmall.com/item.htm?id=627394432450](https://detail.tmall.com/item.htm?id=627394432450)
 * 当当：[http://product.dangdang.com/29130997.html](http://product.dangdang.com/29130997.html)
 
 ## 内容简介
