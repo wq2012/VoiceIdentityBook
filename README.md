@@ -22,7 +22,7 @@ ISBN：9787121395291
 
 本书荣获电子工业出版社[**2020年度优秀作者奖**](media/PHEI_author_award.JPG)。
 
-本书在[京东好物榜内容详细人工智能书籍TOP榜](https://ranking.m.jd.com/goodsLandingPage/goodsLandingPage?contentId=269860649)排行第11。
+本书入选京东好物榜[【内容详细人工智能书籍TOP榜】](https://ranking.m.jd.com/goodsLandingPage/goodsLandingPage?contentId=269860649)排行第11。
 
 ## 媒体报道
 
