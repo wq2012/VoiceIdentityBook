@@ -22,6 +22,8 @@ ISBN：9787121395291
 
 本书荣获电子工业出版社[**2020年度优秀作者奖**](media/PHEI_author_award.JPG)。
 
+本书在[京东好物榜内容详细人工智能书籍TOP榜](https://ranking.m.jd.com/goodsLandingPage/goodsLandingPage?contentId=269860649)排行第11。
+
 ## 媒体报道
 
 * [博文视点 - 声纹技术：让智能语音助手真正“认得”自己](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)
