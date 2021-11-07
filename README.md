@@ -11,6 +11,7 @@
   * [https://detail.tmall.com/item.htm?id=628032618898](https://detail.tmall.com/item.htm?id=628032618898)
   * [https://detail.tmall.com/item.htm?id=627394432450](https://detail.tmall.com/item.htm?id=627394432450)
 * 当当：[http://product.dangdang.com/29130997.html](http://product.dangdang.com/29130997.html)
+* Kindle电子书：[https://www.amazon.cn/dp/B092JGGMXP](https://www.amazon.cn/dp/B092JGGMXP)
 
 ## 内容简介
 
