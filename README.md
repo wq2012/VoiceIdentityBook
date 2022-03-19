@@ -36,7 +36,15 @@ ISBN：9787121395291
 * [载思考 - 刷脸不够安全？配上声纹技术呢？](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)
 * [声纹圈 - 声纹技术宝典——《声纹技术：从核心算法到工程实践》](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)
 
-## 教学视频
+## 在线课程
+
+声纹识别在线网课：
+
+* Udemy英文课程：https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A
+
+<a href="https://www.youtube.com/watch?v=91dZGBPmQ1o"><img src="media/udemy_promotion_video_screenshot.png" width="480"/></a>
+
+## 公开课视频
 
 <a href="https://www.bilibili.com/video/BV1754y1r7Up"><img src="media/lecture_1_cover.png" width="480"/></a>
 
