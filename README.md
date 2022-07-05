@@ -38,11 +38,14 @@ ISBN：9787121395291
 
 ## 在线课程
 
-声纹识别在线网课：
+Udemy英文课程：
 
-* Udemy英文课程：https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A
+* 声纹识别在线网课：[Speaker Recognition | By Award Winning Textbook Author](https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A)
+* 声纹分割聚类在线网课：[A Tutorial on Speaker Diarization](https://www.udemy.com/course/diarization/?referralCode=21D7CC0AEABB7FE3680F)
 
 <a href="https://www.youtube.com/watch?v=91dZGBPmQ1o"><img src="media/udemy_promotion_video_screenshot.png" width="480"/></a>
+
+
 
 ## 公开课视频
 
