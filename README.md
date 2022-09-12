@@ -39,12 +39,15 @@ ISBN：9787121395291
 ## 在线课程
 
 中文课程：
-* 深蓝学院：[声纹识别：从理论到编程实践](https://www.shenlanxueyuan.com/course/513)
+
+* 机器之心 - [声纹识别：从理论到编程实战](https://jmq.xet.tech/s/4j70ZU)
+* 深蓝学院 - [声纹识别：从理论到编程实战](https://www.shenlanxueyuan.com/course/513)
+* 语音之家 - [声纹识别与音频处理](https://appzxw56sw27444.h5.xiaoeknow.com/v1/goods/goods_detail/course_2CvsdnvhxVu65E81X2TcMFlXKWQ)
 
 英文课程：
 
 * ![image](https://img.shields.io/badge/Bestseller-yellow.svg) [Speaker Recognition | By Award Winning Textbook Author](https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A) on Udemy
-* ![image](https://img.shields.io/badge/Hot&new-yellow.svg) [A Tutorial on Speaker Diarization](https://www.udemy.com/course/diarization/?referralCode=21D7CC0AEABB7FE3680F) on Udemy 
+* ![image](https://img.shields.io/badge/Hot&new-yellow.svg) [A Tutorial on Speaker Diarization](https://www.udemy.com/course/diarization/?referralCode=21D7CC0AEABB7FE3680F) on Udemy
 
 <a href="https://www.youtube.com/watch?v=91dZGBPmQ1o"><img src="media/udemy_promotion_video_screenshot.png" width="480"/></a>
 
